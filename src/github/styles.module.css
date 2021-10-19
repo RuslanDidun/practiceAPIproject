@@ -1,0 +1,11 @@
+.container{
+    display: flex;
+}
+
+.container div {
+    padding: 10px;
+}
+
+.selected {
+    background: cornflowerblue;
+}
